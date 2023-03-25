@@ -16,6 +16,7 @@ function wrapGifts(gifts) {
 
 wrapGifts(gifts);
 const names = ["Guadalupe", "Ollie", "Aki"];
+
 function writeCards(name, event) {
     const shoppingCart = []
     for (let i = 0; i < names.length; i++){
